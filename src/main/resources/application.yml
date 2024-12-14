@@ -1,0 +1,9 @@
+#spring:
+#  application:
+#    name: PreBootCampAssigment
+#  datasource:
+#    url: jdbc:h2:mem:bootCamp
+#    driver-class-name: org.h2.Driver
+#  h2:
+#    console:
+#      enabled: true
